@@ -14,4 +14,5 @@ If I had more time to work on the project some improvements would be:
 - Precipitation percentage when the weather is Rain
 
 Notes:
+WeatherApp.java is the where the main method is located and for the program to run. The other files are for object definitions and creations.
 WeatherApp.java has the **API key removed** in line 56. It will need to be replaced with a valid key for the program to function. It can be obtained freely at https://openweathermap.org/
